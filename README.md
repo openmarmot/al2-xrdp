@@ -7,4 +7,4 @@ working was FAR FAR harder than I expected. This minimal set of commands is the 
 
 At the time of this writing when you search xRDP there is no site that has all of these commands on one page. Due to the difficulty I had getting this working, and all the incorrect information I found as part of this search, I thought it would be good to share this solution with the world.
 
-As of this writing Amazon does not have a GUI package released for the AL2 successor : Amazon Linux 2023.
+As of this writing Amazon does not have a GUI package released for the AL2 successor : Amazon Linux 2023. For this problem a pure Amazon solution would be AWS AppStream or AWS Workspaces
